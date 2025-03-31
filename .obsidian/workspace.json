@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250331/25.03.31 TIL.md",
+                "file": "250331/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25.03.31 TIL"
+              "title": "README"
             }
           }
         ]
@@ -172,7 +172,7 @@
     "250331/1929/main.cc",
     "250331/1929",
     "README.md",
-    "250331/25.03.31 TIL.md",
+    "250331/README.md",
     "250331/main.cc",
     "250331"
   ]
