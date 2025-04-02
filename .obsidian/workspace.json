@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "856bae14556ff73d",
+        "id": "f0496cfb5ba8c9ff",
         "type": "tabs",
         "children": [
           {
-            "id": "ec905c9834dd2981",
+            "id": "d10bb9ad5130033b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "250401/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -165,26 +161,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec905c9834dd2981",
+  "active": "d10bb9ad5130033b",
   "lastOpenFiles": [
-    "250401/image.png",
+    "250402/README.md",
+    "image-1.png",
+    "image.png",
     "250401/README.md",
+    "250402/161990/main.cc",
+    "250402/161990",
+    "250402/v14995/main.cc",
+    "250402/v14995/main",
+    "250402/6064/tc1",
+    "250402/6064/main.cc",
+    "250402/6064/main",
+    "250402/v14995",
+    "250402/image.png",
+    "250402/image-4.png",
+    "250402/image-3.png",
+    "250402/image-2.png",
+    "250402/image-1.png",
+    "250402/Pasted image 20250401225606.png",
+    "250402/6064",
+    "250402",
+    "250401/image.png",
     "250401/Pasted image 20250401225606.png",
     "250331/README.md",
-    "README.md",
-    "250401/image-1.png",
-    "250401/image-2.png",
-    "250401/image-4.png",
-    "250401/image-3.png",
-    "250401/6064/tc1",
-    "250401/6064/main",
-    "250401/6064/main.cc",
-    "250401/6064",
-    "250401/v14995/main",
-    "250401/v14995/main.cc",
-    "250401/v14995",
-    "250401/14495/main",
-    "250401/14495/main.cc",
-    "250401/14495"
+    "README.md"
   ]
 }
