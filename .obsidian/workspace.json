@@ -11,14 +11,10 @@
             "id": "d10bb9ad5130033b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "250403/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -167,32 +163,35 @@
   },
   "active": "d10bb9ad5130033b",
   "lastOpenFiles": [
+    "250404/README.md",
+    "250404/250404.md",
+    "250404",
+    "250404.md",
+    "250407/images/image.png",
+    "250407/4963/main",
+    "250407/4963/main.cc",
+    "250407/images",
+    "250407/README.md",
+    "250407/4963",
+    "250407",
+    "README.md",
+    "250403/README.md",
     "250403/images/image.png",
     "250403/images/image-1.png",
     "Untitled.md",
-    "250403/README.md",
     "image-1.png",
-    "image.png",
     "250403/2468/main",
     "250403/2468/main.cc",
     "250403/2468",
     "250403/images",
-    "250403/161990/main.cc",
-    "250403/161990",
     "250403/250402/images/image-1.png",
-    "250403/250402/161990/main.cc",
-    "250403/250402/images",
     "250403/250402/README.md",
-    "250403/250402/161990",
-    "250403/250402",
     "250402/images/image-1.png",
     "250402/README.md",
     "250401/images/image.png",
     "250401/images/image-4.png",
     "250401/images/image-3.png",
     "250401/images/image-2.png",
-    "250401/images/image-1.png",
-    "README.md",
     "250401/README.md",
     "250331/README.md"
   ]
